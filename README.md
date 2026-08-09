@@ -21,7 +21,7 @@ To run the project, you may:
 3. To run the code, use below command:
    For individual test case - pytest tests/cart/test_cart.py::test_total_price_in_cart_is_correct --headed --slowmo=100
 5. A report file will be generated once test is finished running.
-   To generate report -
+   python3 run_test.py tests/cart/test_cart.py -v
 
 **Environment:**
 -----------------------
