@@ -9,7 +9,7 @@ For this demonstration, I have created few test cases to be automated. Some of t
 - TC0001 - Verify user able to end to end login/logout successfully with valid account.
 - TC0002 - Verify user able to navigate to each item category at header.
 - TC0003 - Verify user able to search for item in search bar.
-- TCOOO4 - Verify user able to add items to the shopping cart successfully.
+- TC0004 - Verify user able to add items to the shopping cart successfully.
 - TC0005 - Verify sum price of added items in the cart is correct.
 
 **Getting started:**
