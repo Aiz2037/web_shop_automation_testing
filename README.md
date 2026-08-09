@@ -10,7 +10,7 @@ TC0003 - Verify user able to search for item in search bar.
 TCOOO4 - Verify user able to add items to the shopping cart successfully.
 TC0005 - Verify sum price of added items in the cart is correct.
 
-Getting started:
+**Getting started:**
 To run the project, you may:
 
 1. Git clone this repository to your working directory.
