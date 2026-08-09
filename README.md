@@ -1,3 +1,5 @@
+**Introduction**
+----------------
 This project demonstrates my skills to automate the testing process for ecommerce website. The automation project is developed is using Python and Playwright written in POM format. 
 
 Demo Web Shop is an online shopping platform designed to simulate a typical e-commerce store. Visitors can browse products, search for items, create an account, add products to a shopping cart or wishlist, and go through purchasing-related workflows. It is a demo e-commerce website called “Demo Web Shop”, operated as a Tricentis demo site and powered by nopCommerce.
